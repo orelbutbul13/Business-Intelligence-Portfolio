@@ -4,7 +4,7 @@ Business Intelligence and data visualization project analyzing the Shopify App S
 ---
 
 ## Project Documentation
-- [View Full Report and Dashboard Walkthrough (PDF)](https://drive.google.com/file/d/1cmX9lJtplmw5v5PTRRQ2zfevBw1uRtph/view?usp=sharing)
+- [View Full Report and Dashboard Walkthrough (PDF)](https://drive.google.com/file/d/14mEyAFj7a3cxBCDbrmsxHBRl-in7ZgN-/view?usp=drive_link)
 - **Technical Stack:** Power BI Desktop, DAX, Relational Data Modeling
 
 ---
