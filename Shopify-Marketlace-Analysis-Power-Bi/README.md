@@ -4,8 +4,8 @@ Business Intelligence and data visualization project analyzing the Shopify App S
 ---
 
 ## Project Documentation
-- [View Full Report and Dashboard Walkthrough (PDF)](YOUR_LINK_HERE)
-- [View Power BI Model Visuals](YOUR_LINK_HERE)
+- [View Full Report and Dashboard Walkthrough (PDF)](https://drive.google.com/file/d/1cmX9lJtplmw5v5PTRRQ2zfevBw1uRtph/view?usp=sharing)
+- **Technical Stack:** Power BI Desktop, DAX, Relational Data Modeling
 
 ---
 
@@ -54,8 +54,6 @@ Data was integrated using a **Many-to-One (*:1)** relationship architecture betw
 - **Dashboard Design:** Interactive visualization of marketplace trends and developer benchmarks.
 - **Business Intelligence Reporting:** Converting raw sentiment into executive-ready KPI cards and scatterplot correlations.
 
-
-
 ---
 
 ## Key Findings
@@ -63,5 +61,3 @@ Data was integrated using a **Many-to-One (*:1)** relationship architecture betw
 - **Engagement Impact:** Developers who actively engage with reviews maintain more stable and higher average ratings than non-responsive competitors.
 - **Metric Normalization:** Weighted helpfulness calculations revealed that raw "Sum of Ratings" often provides a misleading view of actual app utility.
 - **Responsiveness Leaders:** Filtering for high-volume apps (>500 reviews) successfully isolated top-tier developers who maintain elite responsiveness standards at scale.
-
----
