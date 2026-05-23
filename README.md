@@ -2,7 +2,7 @@
 
 Collection of Business Intelligence and data analytics projects focused on transforming raw data into structured, decision-ready insights.
 
-These projects demonstrate SQL-based analysis, dashboard development, KPI modeling, engagement diagnostics, and performance evaluation across real estate, media, investment, and e-commerce domains.
+These projects demonstrate SQL-based analysis, dashboard development, KPI modeling, engagement diagnostics, and performance evaluation across real estate, media, investment, restaurant, and e-commerce domains.
 
 ---
 
@@ -17,6 +17,7 @@ These projects demonstrate SQL-based analysis, dashboard development, KPI modeli
 | 5 | [Retail Return Intelligence System](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Retail-Returns-Analysis-Tableau) | KPI-based return analysis and Tableau dashboard identifying category risk concentration, geographic return patterns, seasonal volatility, and customer return behavior. |
 | 6 | [Shopify Marketplace Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Shopify-Marketlace-Analysis-Power-Bi) | Power BI project analyzing marketplace scale, developer responsiveness, and community-weighted sentiment using advanced DAX modeling. |
 | 7 | [Manhattan Airbnb Investment Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Manhattan-Airbnb-Investment-Analysis) | Market intelligence project identifying high-yield investment hubs, property size optimization (1-bed vs. Studio), and realized revenue benchmarking. |
+| 8 | [Zomato Restaurant Performance Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Zomato-Restaurant-Performance-Analysis) | Tableau-based restaurant analytics project evaluating revenue concentration, customer demand behavior, cuisine-category performance, ratings impact, and geographic restaurant trends. |
 
 ---
 
