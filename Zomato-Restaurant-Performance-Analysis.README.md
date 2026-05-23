@@ -1,30 +1,29 @@
 # Zomato Restaurant Performance Analysis
 
-Business Intelligence and data visualization project analyzing restaurant operational performance using Tableau to identify revenue concentration, customer demand patterns, cuisine performance trends, ratings impact, and geographic business opportunities.
+Business Intelligence and data visualization project analyzing restaurant operational performance using Tableau to evaluate revenue concentration, customer demand behavior, cuisine-category performance, ratings impact, and geographic restaurant trends.
 
 ---
 
 ## Project Documentation
 
 - [View Full Report and Dashboard Walkthrough (PDF)](https://drive.google.com/file/d/1nbWLNEs-fRnCE7f_VAJh7ujjuriOQxCN/view?usp=sharing)  
-- [View Interactive Tableau Dashboard](#)
 
 ---
 
 ## Business Objective
 
-Restaurant businesses require structured operational visibility into sales performance, customer demand, cuisine profitability, and market-level trends.
+Restaurant businesses require structured operational visibility into sales performance, customer demand, cuisine profitability, and city-level market trends.
 
-This project transforms restaurant transaction and performance data into actionable business intelligence supporting:
+This project transforms restaurant performance data into actionable business intelligence supporting:
 
 - Revenue performance analysis  
-- Order volume and customer demand evaluation  
+- Customer demand and order-volume evaluation  
 - Cuisine-category profitability assessment  
 - Ratings vs. revenue correlation analysis  
-- Geographic restaurant performance analysis  
-- Operational KPI monitoring and trend evaluation  
+- Geographic restaurant performance monitoring  
+- Operational KPI tracking and trend diagnostics  
 
-The objective was to convert raw restaurant data into executive-ready insights through interactive dashboard modeling and restaurant performance diagnostics.
+The objective was to convert raw restaurant data into executive-ready insights through interactive dashboard modeling and restaurant performance analysis.
 
 ---
 
@@ -36,7 +35,7 @@ The analysis is based on Zomato restaurant performance data, including:
 - Restaurant names  
 - Cuisine categories  
 - Customer ratings  
-- Order volume metrics  
+- Order-volume metrics  
 - Revenue metrics  
 - Geographic city data  
 
@@ -47,11 +46,11 @@ The dataset was cleaned, transformed, and modeled to support KPI-based restauran
 ## Analytical Focus Areas
 
 - Top-performing restaurants by revenue  
-- Restaurant order volume analysis  
+- Restaurant order-volume analysis  
 - Ratings vs. revenue correlation modeling  
 - Cuisine-category performance evaluation  
 - City-level restaurant performance analysis  
-- KPI trend monitoring and operational diagnostics  
+- Revenue concentration and operational diagnostics  
 
 ---
 
@@ -82,7 +81,7 @@ The dataset was cleaned, transformed, and modeled to support KPI-based restauran
 
 - Use top-performing restaurants as benchmark operational models for pricing, promotions, and customer engagement strategies.  
 - Improve customer satisfaction and service quality to positively influence revenue performance.  
-- Expand marketing investment toward high-performing cuisine categories and geographic markets.  
+- Expand investment into high-performing cuisine categories and geographic markets.  
 - Optimize operational efficiency for restaurants experiencing high order volume during peak demand periods.  
 - Use KPI monitoring dashboards to continuously evaluate restaurant performance trends and operational risk areas.  
 
@@ -103,7 +102,7 @@ The interactive Tableau dashboard includes:
 
 - Analytical visualizations:
   - Revenue analysis
-  - Order volume analysis
+  - Order-volume analysis
   - Ratings vs. revenue scatter plot
   - Cuisine performance analysis
   - Geographic city performance analysis
