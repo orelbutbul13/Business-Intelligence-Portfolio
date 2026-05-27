@@ -2,7 +2,7 @@
 
 Collection of Business Intelligence and data analytics projects focused on transforming raw data into structured, decision-ready insights.
 
-These projects demonstrate SQL-based analysis, dashboard development, KPI modeling, engagement diagnostics, and performance evaluation across real estate, media, investment, restaurant, and e-commerce domains.
+These projects demonstrate SQL-based analysis, KPI modeling, dashboard architecture, operational diagnostics, and performance evaluation across investment, retail, restaurant, marketplace, real estate, media, and e-commerce domains.
 
 ---
 
@@ -23,12 +23,12 @@ These projects demonstrate SQL-based analysis, dashboard development, KPI modeli
 
 ## Core Competencies
 
-- **SQL:** Query design, relational data analysis, and schema architecture.
-- **Power BI & Tableau:** Dashboard architecture, DAX modeling, and advanced visualization.
-- **Business Intelligence:** KPI development, subscription revenue modeling, and performance benchmarking.
-- **Market Intelligence:** Real estate revenue modeling, neighborhood demand segmentation, and spatial asset optimization.
-- **Advanced Analytics:** Engagement normalization (Tracks/User), risk diagnostics, and cohort retention modeling.
-- **Data Engineering:** Data cleaning, transformation, and normalization (PROPER/TRIM/SUMIF logic).
+- **SQL:** Query design, joins, aggregations, relational analysis, and schema architecture.
+- **Power BI & Tableau:** Dashboard architecture, DAX modeling, KPI systems, and advanced visualization.
+- **Business Intelligence:** KPI development, operational analytics, performance benchmarking, and executive reporting.
+- **Advanced Analytics:** Funnel analysis, cohort retention modeling, engagement normalization, and operational diagnostics.
+- **Market Intelligence:** Investment analysis, geographic trend evaluation, and revenue opportunity modeling.
+- **Data Engineering:** Data cleaning, transformation, normalization, and structured analytical workflows.
 - **Communication:** Executive-level reporting and strategic insight communication.
 
 ---
@@ -36,5 +36,6 @@ These projects demonstrate SQL-based analysis, dashboard development, KPI modeli
 ## Technical Stack
 
 - **Languages:** SQL (PostgreSQL, MySQL)
-- **Tools:** Power BI, Tableau, Google Sheets, Excel
-- **Specializations:** Relational Modeling, KPI Architecture, Subscription Analytics, Real Estate ROI Modeling
+- **Visualization Tools:** Power BI, Tableau
+- **Analytics Tools:** Google Sheets, Excel
+- **Specializations:** KPI Architecture, DAX Modeling, Cohort Analysis, Revenue Analytics, Operational Intelligence, Dashboard Development
