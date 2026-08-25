@@ -18,6 +18,7 @@ These projects demonstrate SQL-based analysis, KPI modeling, dashboard architect
 | 6 | [Shopify Marketplace Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Shopify-Marketlace-Analysis-Power-Bi) | Power BI project analyzing marketplace scale, developer responsiveness, and community-weighted sentiment using advanced DAX modeling. |
 | 7 | [Manhattan Airbnb Investment Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Manhattan-Airbnb-Investment-Analysis) | Market intelligence project identifying high-yield investment hubs, property size optimization (1-bed vs. Studio), and realized revenue benchmarking. |
 | 8 | [Zomato Restaurant Performance Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Zomato-Restaurant-Performance-Analysis) | Tableau-based restaurant analytics project evaluating revenue concentration, customer demand behavior, cuisine-category performance, ratings impact, and geographic restaurant trends. |
+| 9 | [Insurance Quote Funnel BI Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Insurance-Quote-Funnel-BI-Analysis) | 90-question analysis of a 15,000-row anonymized insurance quote funnel identifying a hidden $13.9M silent-failure gap, denominator-aware rejection-rate reporting, and channel-level conversion vs. underwriting-fit comparison. |
 
 ---
 
