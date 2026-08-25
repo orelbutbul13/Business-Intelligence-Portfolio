@@ -6,7 +6,7 @@ Business Intelligence project analyzing a 15,000-row anonymized commercial insur
 
 ## Project Documentation
 
-- [View Full Report and Analysis (PDF)](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/blob/main/Insurance-Quote-Funnel-BI-Analysis/Full-Report.pdf)
+- [View Case Study](https://docs.google.com/document/d/1K1F3G7JQn8yWRzdlTxyIvrp_SnUBXBfO1jX8y0OZFrU/edit)
 
 ---
 
