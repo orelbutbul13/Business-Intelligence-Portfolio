@@ -6,7 +6,7 @@ Business Intelligence project analyzing a 15,000-row anonymized commercial insur
 
 ## Project Documentation
 
-- [View Full Case Study](https://docs.google.com/document/d/1goTCsAo7T3u6wLU2s2sWuda7NUbCYauhxA-aCB7oiAs/edit)
+- [View Full Case Study](https://docs.google.com/document/d/1ayHo3QMO-Bun-hLN3jf7WbOA80ULijJkWJCftRUtF2I/edit)
 
 ---
 
@@ -72,5 +72,7 @@ The rejection log required custom regex extraction across 8 reason-type keys bef
 - A missing verified business-location identifier is a hard pricing gate: applicants still complete the funnel 94.9% of the time but are priced 0% of the time without it.
 - A single over-broad eligibility rule (not a genuine risk rule) accounts for an estimated $2.65M in recoverable rejected premium.
 - Repeat applicants (250 businesses, 2-4 applications each) reach a real outcome 100% of the time, a validated warm-lead segment hiding in what looks like duplicate traffic.
+- Revenue concentration is a category story, not an account story: it takes 66.1% of all priced quotes to reach 80% of total premium, so the real diversification risk sits in category mix, not a handful of large accounts.
+- 72.6% of priced quotes carry a $0 flood premium, and content premium outweighs building premium roughly 116 to 1, pointing to a flood-coverage cross-sell gap and a renter-dominant customer base.
 
 ---
