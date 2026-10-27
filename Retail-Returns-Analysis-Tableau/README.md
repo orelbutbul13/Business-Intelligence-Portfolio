@@ -6,7 +6,7 @@ Business Intelligence and data visualization project analyzing retail return beh
 
 ## Project Documentation
 
-- [View Live Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/orel.butbul/viz/Book1_17719029215760/blankstory?publish=yes)  
+- [View Live Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/orel.butbul/viz/SuperstoreReturnsWhereReturnsComeFrom/SuperstoreReturnsPerformanceDashboard)  
 - [View Full Report and Dashboard Walkthrough (PDF)](https://drive.google.com/file/d/1SER_6CwaO_k4ufEj0YUXvNcvKBfkUfXK/view?usp=drive_link)
 
 ---
