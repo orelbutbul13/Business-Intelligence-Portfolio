@@ -68,10 +68,18 @@ Returns were integrated using a left-join architecture and transformed into a de
 
 ## Key Findings
 
-- Technology exhibits the highest return rate (~27%) and represents the largest operational return risk concentration.  
-- Returns are positively correlated with sales volume, but certain sub-categories show disproportionate return behavior.  
-- Geographic return concentration is elevated in Western and Southwestern states.  
-- Return rates fluctuate seasonally, indicating promotional or demand-cycle impact.  
-- A subset of repeat customers contributes disproportionately to total return volume.  
+About 1 in 4 order lines is returned (Superstore orders, 2018 to 2021).
+
+- **Returns are rising:** the Furniture return rate jumped from 21% to 33% in 2021, and Technology also hit its highest rate (31%) that year.
+- **Binders and Paper are returned most often** (552 and 487 items), despite modest sales.
+- **Returns concentrate in the West:** Utah returns 57% of order lines, California and Oregon 45%.
+- **10 repeat customers return 86% or more** of what they order.
+
+## Recommendations
+
+1. Investigate the 2021 Furniture jump first: check delivery damage and product quality.
+2. Review packaging and order accuracy for Binders and Paper.
+3. Audit fulfillment in Utah, California and Oregon.
+4. Flag the 10 high-return repeat customers for review.
 
 ---
